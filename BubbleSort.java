@@ -38,4 +38,4 @@ public class BubbleSort
             System.out.print(i+" ");
         }
     }
-}Bubble
+}
